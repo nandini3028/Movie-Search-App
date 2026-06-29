@@ -1,3 +1,42 @@
+# 🎬 Movie Search App
+
+A responsive Movie Search application built with React and the OMDb API.
+
+## Features
+
+- 🔍 Search movies by title
+- 🎬 Display movie posters
+- 📅 Show release year
+- 🎭 Display movie type
+- ⚡ Real-time API integration
+- 📱 Responsive UI
+
+## Tech Stack
+
+- React
+- JavaScript
+- Tailwind CSS
+- OMDb API
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Screenshots
+
+(Add screenshots here)
+
+## Future Improvements
+
+- Favorites
+- Dark Mode
+- Movie Details Page
+- Loading Spinner
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
